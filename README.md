@@ -1,3 +1,3 @@
-# Template of [Crev Proof Repository](https://github.com/crev-dev/crev/wiki/Proof-Repository)
+# Crev Proof Repository for web.crev.dev
 
-[Fork](https://github.com/crev-dev/crev-proofs/fork) this repo to create your own, empty Proof Repository.
+Here are saved the trusted and untrusted crev repositories for the website web.crev.dev.
