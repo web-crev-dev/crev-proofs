@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2023-04-13T12:20:59.532267692+00:00"
+from:
+  id-type: crev
+  id: UpOPNplVEwBS2RhF7SS9gSP3bPJlfg-ZEoZ89gEMDwU
+  url: "https://github.com/web-crev-dev/crev-proofs"
+ids:
+  - id-type: crev
+    id: ZOm7om6WZyEf3SBmDC69BXs8sc1VPniYx7Nfz2Du6hM
+    url: "https://gitlab.com/KonradBorowski/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+1UZK3Pg_Z08i2IgyB6r51-vtJppTJTquy_u-3ioBHEPbwan67PRoWoTX_UE1qDFHofYOcaxz76aNzALRS7UOCw
+----- END CREV PROOF -----
+
