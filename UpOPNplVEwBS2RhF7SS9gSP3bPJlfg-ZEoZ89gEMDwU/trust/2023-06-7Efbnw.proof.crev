@@ -185,3 +185,20 @@ trust: high
 Yib06DW4uE9eoMr63SUTeMlvWsEw5DMpPtZoMBgJhJAricCHxInR5_W7JlQB0yGz2oELF8lpApKopi2AAyheDg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-06-08T08:11:31.137009699+00:00
+from:
+  id-type: crev
+  id: UpOPNplVEwBS2RhF7SS9gSP3bPJlfg-ZEoZ89gEMDwU
+  url: https://github.com/web-crev-dev/crev-proofs
+ids:
+- id-type: crev
+  id: _Y8MetA5kBAku0hT16qKcH2r0opSMQjUH-F1XUSrZW4
+  url: https://github.com/pmembrey/crev-proofs
+trust: high
+----- SIGN CREV PROOF -----
+0nJqr0npuvfPphZbKjNp-D6eKX3rp0gph8gwt6r4dFOorjnzz85CbNLjDqTJ8bl3rrvFI9QsRcJ2Aa6gVypzBA
+----- END CREV PROOF -----
+
