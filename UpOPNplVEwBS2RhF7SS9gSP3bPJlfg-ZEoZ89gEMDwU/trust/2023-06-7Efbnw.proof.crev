@@ -66,3 +66,20 @@ trust: high
 bSZ-vbbHexIffr0gr-DMXiyMdiiBkMTOKOcq7Fka7Bf6q7W_9TIl8ZibgeMZEqGSqwHDDS9kKJopcxvpGJVkBQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-06-08T08:06:32.791182923+00:00
+from:
+  id-type: crev
+  id: UpOPNplVEwBS2RhF7SS9gSP3bPJlfg-ZEoZ89gEMDwU
+  url: https://github.com/web-crev-dev/crev-proofs
+ids:
+- id-type: crev
+  id: tqIagdKIwdbLXhAnnLYyL_1hlpfutnBFV1fvxolMws8
+  url: https://github.com/jakibaki/crev-proofs
+trust: high
+----- SIGN CREV PROOF -----
+pBv_KKE09-5EhR69JG19lcD5KaTgChwWCX0N6PqrPsy4drG3UFwcsCKy9e_PWiegKZx-O17pUqD5JMs8mXuVDQ
+----- END CREV PROOF -----
+
