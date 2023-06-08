@@ -134,3 +134,20 @@ trust: high
 SoniwKQj-lOjj2VXFSskVF4baKJ789trmY2nMJzG0kJmgBIw88ociJDSO1yyzb3Ugs-s0YIp9KKM-NBJAh2lAA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-06-08T08:08:08.129810921+00:00
+from:
+  id-type: crev
+  id: UpOPNplVEwBS2RhF7SS9gSP3bPJlfg-ZEoZ89gEMDwU
+  url: https://github.com/web-crev-dev/crev-proofs
+ids:
+- id-type: crev
+  id: HT24oErbY-0x-yt9mGMZEk5S07lzpFQ4kayzEkVxJWU
+  url: https://github.com/matthiasbeyer/crev-proofs
+trust: high
+----- SIGN CREV PROOF -----
+KBxqzN3P9ZMBTmgfjX7Hx3m7KGvjL0C28KlKFu7p9zXoXY3j4WgKTw3mXosZk0XDY9MQHAHhyDjIspDBPhk0Bg
+----- END CREV PROOF -----
+
