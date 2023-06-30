@@ -35,23 +35,6 @@ Getv-90RLv8nUlWcpzVjrdIKY_UZqOhAERSTthRUuZVY4wcl42aTeP_dWnfJ88BRva9uQfwblq0W_Sf_
 ----- BEGIN CREV PROOF -----
 kind: trust
 version: -1
-date: "2022-01-25T13:58:18.115755341+00:00"
-from:
-  id-type: crev
-  id: UpOPNplVEwBS2RhF7SS9gSP3bPJlfg-ZEoZ89gEMDwU
-  url: "https://github.com/cargo-crev-web/crev-proofs"
-ids:
-  - id-type: crev
-    id: h2qAMGy777KobqCn93bmCJ2EFJUGTc42Y_SHkFDegTw
-    url: "https://github.com/kaiserkarel/crev-proofs"
-trust: low
------ SIGN CREV PROOF -----
-9ORKopqygFGFgQ_yfHXkfRadYjU6s3nM7z_Pd1SCbtIrP741ZoFM-qi25Jpso00xQ19fw_pgDxLTv0dWacI9DA
------ END CREV PROOF -----
-
------ BEGIN CREV PROOF -----
-kind: trust
-version: -1
 date: "2022-01-26T08:31:48.790525695+00:00"
 from:
   id-type: crev
