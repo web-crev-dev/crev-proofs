@@ -136,10 +136,6 @@
     "empty"
   ],
   [
-    "https://github.com/CAD97/crev-proofs",
-    "exists as lowercase"
-  ],
-  [
     "https://github.com/cargo-crev-web/crev-proofs",
     "no reviews"
   ],
@@ -152,15 +148,15 @@
     "no reviews"
   ],
   [
-    "https://github.com/cehteh/crev-proofs",
-    "no id"
-  ],
-  [
     "https://github.com/chck/crev-proofs",
     "no reviews"
   ],
   [
     "https://github.com/chirao237/crev-proofs",
+    "no reviews"
+  ],
+  [
+    "https://github.com/chordtoll/crev-proofs",
     "no reviews"
   ],
   [
@@ -212,20 +208,8 @@
     "no reviews"
   ],
   [
-    "https://github.com/CosmicHorrorDev/crev-proofs",
-    "Could not find Id for URL"
-  ],
-  [
     "https://github.com/crev-dev/crev-proofs",
     "no id"
-  ],
-  [
-    "https://github.com/cultpony/crev-proofs",
-    "git error when fetching"
-  ],
-  [
-    "https://github.com/DaAitch/crev-proofs",
-    "Could not find Id for URL"
   ],
   [
     "https://github.com/dalance/crev-proofs",
@@ -528,6 +512,10 @@
     "no reviews"
   ],
   [
+    "https://github.com/luringens/crev-proofs",
+    "no reviews"
+  ],
+  [
     "https://github.com/maccam912/crev-proofs",
     "empty"
   ],
@@ -584,16 +572,8 @@
     "no id"
   ],
   [
-    "https://github.com/Minoru/crev-proofs",
-    "exists url that ends with .git"
-  ],
-  [
     "https://github.com/MitMaro/crev-proofs",
     "no id"
-  ],
-  [
-    "https://github.com/MMKubicki/crev-proofs",
-    "the one review has different url NinProf"
   ],
   [
     "https://github.com/ModdedGamers/crev-proofs",
@@ -634,10 +614,6 @@
   [
     "https://github.com/nyanpasu64/crev-proofs",
     "no reviews"
-  ],
-  [
-    "https://github.com/old-mibmo/crev-proofs",
-    "exists as mibmo"
   ],
   [
     "https://github.com/onsails/crev-proofs",
@@ -780,10 +756,6 @@
     "empty"
   ],
   [
-    "https://github.com/taladar/crev-proofs",
-    "no id"
-  ],
-  [
     "https://github.com/tami5/crev-proofs",
     "no id"
   ],
@@ -796,11 +768,11 @@
     "no reviews"
   ],
   [
-    "https://github.com/TheAlgorythm/crev-proofs",
-    "in 1 review, there is no url"
+    "https://github.com/theHedgehog0/crev-proofs",
+    "no reviews"
   ],
   [
-    "https://github.com/theHedgehog0/crev-proofs",
+    "https://github.com/thelastinuit/crev-proofs",
     "no reviews"
   ],
   [
