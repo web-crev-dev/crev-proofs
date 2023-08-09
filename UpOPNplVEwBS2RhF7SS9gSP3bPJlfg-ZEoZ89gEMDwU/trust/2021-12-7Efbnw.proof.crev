@@ -1365,23 +1365,6 @@ glxUXWZ1kuRiX0uS09XEyQ5xufADqZyBWH6VzC6b2FoE23N4L7LN7BtOx93ZTc55qQX5zFUFgMsbSMz3
 ----- BEGIN CREV PROOF -----
 kind: trust
 version: -1
-date: "2021-12-05T12:39:43.150462581+00:00"
-from:
-  id-type: crev
-  id: UpOPNplVEwBS2RhF7SS9gSP3bPJlfg-ZEoZ89gEMDwU
-  url: "https://github.com/cargo-crev-web/crev-proofs"
-ids:
-  - id-type: crev
-    id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
-    url: "https://github.com/LucianoBestia/crev-proofs"
-trust: low
------ SIGN CREV PROOF -----
-VUyGIOdojxLYE5PMWOSldsb-61jzBHtYnhOH-grW-lCiDuwf824PJfGTIZ23WFWcvPoHKMaMHjoAtk_gZk-XAw
------ END CREV PROOF -----
-
------ BEGIN CREV PROOF -----
-kind: trust
-version: -1
 date: "2021-12-05T12:40:37.591336328+00:00"
 from:
   id-type: crev
