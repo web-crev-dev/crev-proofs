@@ -1,0 +1,17 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-08-09T12:17:16.904898991+00:00
+from:
+  id-type: crev
+  id: UpOPNplVEwBS2RhF7SS9gSP3bPJlfg-ZEoZ89gEMDwU
+  url: https://github.com/web-crev-dev/crev-proofs
+ids:
+- id-type: crev
+  id: xANVwAewKqhrUsYZNRN5FTEXaMuzekyaaOTxqLVQ2R0
+  url: https://github.com/bestia-dev/crev-proofs
+trust: high
+----- SIGN CREV PROOF -----
+CRM3MH45douFgOXq3nFo-uUm06IKTzSigP7O5dPzj-HoaWMX_ILbPY6_3midId1KN-ZfZZl4DmErPjz3-NwDCQ
+----- END CREV PROOF -----
+
