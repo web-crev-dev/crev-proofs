@@ -15,3 +15,20 @@ trust: high
 SfaWrf_a-plOxStXe3xtl3KwNQ1HHKWNHc59NEcSpDEMGUAk0u3-HN-QGsJggCYOcNO0pteiQqlTjZPYD7WOBA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: 2023-08-09T15:40:09.963515727+00:00
+from:
+  id-type: crev
+  id: UpOPNplVEwBS2RhF7SS9gSP3bPJlfg-ZEoZ89gEMDwU
+  url: https://github.com/web-crev-dev/crev-proofs
+ids:
+- id-type: crev
+  id: z4ohCzrRDib9eo2_4xi_Q8orAQGY9GGxd-2SeIFCLsg
+  url: https://github.com/derdus/crev-proofs
+trust: high
+----- SIGN CREV PROOF -----
+F-5vS-vyn-ThIRNxw3PI4W3IGVhYH349fTVclxtm1okavCQ-wHFEoZcvtyCCLfv9AHHj3PjgWKKPcdwsWdfjBA
+----- END CREV PROOF -----
+
